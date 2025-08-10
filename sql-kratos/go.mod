@@ -1,4 +1,4 @@
-module github.com/tx7do/kratos-cli/sql-kratos
+module github.com/litianhe/kratos-cli/sql-kratos
 
 go 1.24
 
