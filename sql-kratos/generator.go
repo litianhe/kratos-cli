@@ -10,7 +10,7 @@ import (
 	sqlorm "github.com/tx7do/kratos-cli/sql-orm"
 	sqlproto "github.com/tx7do/kratos-cli/sql-proto"
 
-	"github.com/tx7do/kratos-cli/sql-kratos/internal"
+	"github.com/litianhe/kratos-cli/sql-kratos/internal"
 )
 
 func Generate(ctx context.Context, opts internal.GeneratorOptions) error {

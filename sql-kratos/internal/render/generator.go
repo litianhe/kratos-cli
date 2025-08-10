@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/tx7do/kratos-cli/sql-kratos/internal/render/templates"
+	"github.com/litianhe/kratos-cli/sql-kratos/internal/render/templates"
 )
 
 // WriteEntDataPackageCode writes the Ent data package code to the specified output path.

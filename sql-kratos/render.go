@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/tx7do/kratos-cli/sql-kratos/internal/render"
+	"github.com/litianhe/kratos-cli/sql-kratos/internal/render"
 )
 
 type DataField render.DataField
